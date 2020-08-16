@@ -14,6 +14,6 @@ it('renders correctly', () => {
 });
 
 it('contains absolutely nothing', () => {
-  const app = renderer.create(<App />);
-  expect(app.)
+  const app = renderer.create(<App />).toJSON();
+  expect(JSON.stringify(app).indexOf('Vůbec nic')).toBeGreaterThan(-1);
 });
