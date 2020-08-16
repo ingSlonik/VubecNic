@@ -7,7 +7,7 @@
  */
 
 import React from 'react';
-import {StatusBar, View, Text, StyleSheet} from 'react-native';
+import {View, Text, StyleSheet} from 'react-native';
 
 export default function App(): React$Node {
   return (
