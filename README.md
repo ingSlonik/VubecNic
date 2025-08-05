@@ -4,8 +4,9 @@ Tato aplikace opravdu nedělá vůbec nic.
 
 ## Download
 
-* [Google play](https://play.google.com/store/apps/details?id=com.vubecnic) (více jak 1000 stažení)
-* *App store* (to nedovolí)
+- [Google play](https://play.google.com/store/apps/details?id=com.vubecnic)
+  (více jak 1000 stažení)
+- _App store_ (to nedovolí)
 
 ## Screenshots
 
